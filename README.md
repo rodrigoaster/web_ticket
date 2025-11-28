@@ -286,10 +286,7 @@ if (Math.random() < 0.05) { // Alterar 0.05 para novo valor (0.1 = 10%)
 - [ ] **Refatoração para múltiplos arquivos** - Separar componentes, tipos e utilitários
 - [ ] **Context API** - Implementar gerenciamento de estado global
 - [ ] Testes unitários (Jest + Testing Library)
-- [ ] Testes E2E (Cypress)
-- [ ] PWA (Progressive Web App)
 - [ ] Docker containerization
-- [ ] CI/CD pipeline
 - [ ] Acessibilidade (WCAG 2.1)
 - [ ] Internacionalização (i18n)
 
@@ -302,27 +299,6 @@ Contribuições são bem-vindas! Por favor:
 3. Commit suas mudanças (`git commit -m 'Adiciona MinhaFeature'`)
 4. Push para a branch (`git push origin feature/MinhaFeature`)
 5. Abra um Pull Request
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 👨‍💻 Autor
-
-**João Ferreira**  
-UNINASSAU - 2025
-
-## 📞 Contato
-
-- Email: joao.ferreira@example.com
-- LinkedIn: [linkedin.com/in/joaoferreira](https://linkedin.com/in/joaoferreira)
-- GitHub: [@joaoferreira](https://github.com/joaoferreira)
-
-## 🙏 Agradecimentos
-
-- UNINASSAU pela oportunidade do projeto
-- Professores e orientadores
-- Comunidade React e TypeScript
 
 ---
 
